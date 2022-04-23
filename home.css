@@ -1,0 +1,40 @@
+.container{
+background-color: rgb(243, 235, 235);
+   
+}
+.img1{
+    height: 300px;
+    width: 100%;
+}
+.h22{
+    text-align: center;
+    color: green;
+    margin-top: 20px;
+
+}
+.founder1 img{
+    
+    height: 500px;
+    width: 300px;
+}
+.founder1{
+    background-color:rgb(159, 60, 60);
+    margin-top: 20px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin:20px;
+    background-color: rgb(166, 231, 166);
+    color: rebeccapurple;
+    
+}
+.grid p{
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+}
+.grid h4{
+    text-align: center;
+    color: black;
+}
